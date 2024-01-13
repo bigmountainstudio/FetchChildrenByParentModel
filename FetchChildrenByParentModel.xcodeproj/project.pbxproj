@@ -11,6 +11,7 @@
 		4D6D86FD2B52DA4400E681DC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D6D86FC2B52DA4400E681DC /* ContentView.swift */; };
 		4D6D86FF2B52DA4500E681DC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4D6D86FE2B52DA4500E681DC /* Assets.xcassets */; };
 		4D6D87022B52DA4500E681DC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4D6D87012B52DA4500E681DC /* Preview Assets.xcassets */; };
+		4D6D87092B5300E600E681DC /* ChildrenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D6D87082B5300E600E681DC /* ChildrenView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		4D6D86FC2B52DA4400E681DC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		4D6D86FE2B52DA4500E681DC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4D6D87012B52DA4500E681DC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		4D6D87082B5300E600E681DC /* ChildrenView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChildrenView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				4D6D86FA2B52DA4400E681DC /* FetchChildrenByParentModelApp.swift */,
 				4D6D86FC2B52DA4400E681DC /* ContentView.swift */,
+				4D6D87082B5300E600E681DC /* ChildrenView.swift */,
 				4D6D86FE2B52DA4500E681DC /* Assets.xcassets */,
 				4D6D87002B52DA4500E681DC /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4D6D87092B5300E600E681DC /* ChildrenView.swift in Sources */,
 				4D6D86FD2B52DA4400E681DC /* ContentView.swift in Sources */,
 				4D6D86FB2B52DA4400E681DC /* FetchChildrenByParentModelApp.swift in Sources */,
 			);
